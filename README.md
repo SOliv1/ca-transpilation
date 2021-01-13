@@ -1,4 +1,4 @@
-# ca-transpilation
+# ca-transpilation - part 2
 
 ## Transpilation
 At this point, you are familiar with ES6+ browser compatibility issues and how to address them with transpilation.
